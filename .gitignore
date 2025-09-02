@@ -3,6 +3,7 @@
 *.iws
 *.iml
 *.ipr
+.idea
 
 # gradle project minimum
 !.idea/gradle.xml
